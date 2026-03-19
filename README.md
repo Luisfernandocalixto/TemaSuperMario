@@ -17,8 +17,8 @@ Creating a hover effect on a Super Mario image
 
 
 ## Screenshots
-![alt text](image.png)
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+<img width="438" height="891" alt="image" src="https://github.com/user-attachments/assets/a0ddde83-e63c-4071-9d23-d6686382a16e" />
+<img width="1559" height="975" alt="image" src="https://github.com/user-attachments/assets/da66c4a8-d80a-447e-9602-c19c1fea85d3" />
 
 
 ## 🛠 Skills
